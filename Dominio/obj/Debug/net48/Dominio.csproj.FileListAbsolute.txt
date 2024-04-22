@@ -1,0 +1,9 @@
+F:\Trabalho\Testes\ErroAwait\ErroAwait\Dominio\bin\Debug\net48\Dominio.dll
+F:\Trabalho\Testes\ErroAwait\ErroAwait\Dominio\bin\Debug\net48\Dominio.pdb
+F:\Trabalho\Testes\ErroAwait\ErroAwait\Dominio\obj\Debug\net48\Dominio.csproj.AssemblyReference.cache
+F:\Trabalho\Testes\ErroAwait\ErroAwait\Dominio\obj\Debug\net48\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\Trabalho\Testes\ErroAwait\ErroAwait\Dominio\obj\Debug\net48\Dominio.AssemblyInfoInputs.cache
+F:\Trabalho\Testes\ErroAwait\ErroAwait\Dominio\obj\Debug\net48\Dominio.AssemblyInfo.cs
+F:\Trabalho\Testes\ErroAwait\ErroAwait\Dominio\obj\Debug\net48\Dominio.csproj.CoreCompileInputs.cache
+F:\Trabalho\Testes\ErroAwait\ErroAwait\Dominio\obj\Debug\net48\Dominio.dll
+F:\Trabalho\Testes\ErroAwait\ErroAwait\Dominio\obj\Debug\net48\Dominio.pdb
